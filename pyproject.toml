@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "course_financial_applications"
+version = "1.0.0"
+description = "Notes from a course in ML & AI in Finance"
+authors = ["Julio Torreblanca <julio.avila.torreblanca@gmail.com>"]
+
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
