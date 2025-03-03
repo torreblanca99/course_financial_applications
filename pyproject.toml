@@ -9,12 +9,19 @@ authors = ["Julio Torreblanca <julio.avila.torreblanca@gmail.com>"]
 python = "^3.11"
 
 
+
+
 [tool.poetry.group.data.dependencies]
 numpy = "^2.2.3"
 pandas = "^2.2.3"
 
 [tool.poetry.group.model.dependencies]
 scikit-learn = "^1.6.1"
+
+[tool.poetry.group.plots.dependencies]
+seaborn = "^0.13.2"
+matplotlib = "^3.10.0"
+plotly = "^6.0.0"
 
 [build-system]
 requires = ["poetry-core"]
