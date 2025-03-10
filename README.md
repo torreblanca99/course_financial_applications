@@ -21,7 +21,7 @@ The "Financial Applications with Machine Learning & AI" course explores the inte
 - Week 2: Fraud Prevention via Auto-encoder
 - Week 3: Valuation of Crypto-assets using LSTM Networks
 - Week 4: Evaluation and Project I
-#### Module II: Revisiting Financial Objects
+#### Module II: Reviewing Financial Objects
 - Week 1: Value at Risk via ARCH
 - Week 2: Black & Scholes vs. Monte-Carlo for Derivatives
 - Week 3: Markowitz vs. Graph Theory
