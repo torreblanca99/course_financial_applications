@@ -21,10 +21,10 @@ The "Financial Applications with Machine Learning & AI" course explores the inte
 #### Module I: Fintech Toolbox
 - Week 1: Credit Risk via Supervised Learning and Survival Analysis
 - Week 2: Fraud Prevention via Auto-encoder
-- Week 3: Valuation of Crypto-assets using LSTM Networks
+- Week 3: Time Series and Forecast
 - Week 4: Evaluation and Project I
 #### Module II: Revisiting Financial Objects
-- Week 1: Value at Risk via ARCH
+- Week 1: Value at Risk via ARCH & LSTM Networks
 - Week 2: Black & Scholes vs. Monte-Carlo for Derivatives
 - Week 3: Markowitz vs. Graph Theory
 - Week 4: Evaluation and Project II
