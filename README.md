@@ -10,7 +10,7 @@
 
 
 
-######  Author contact [notes and work]: <a href="www.linkedin.com/in/torreblanca99">Julio Torreblanca</a>
+######  Author contact [notes and work]: <a href="https://www.linkedin.com/in/torreblanca99">Julio Torreblanca</a>
 ## Course Introduction
 The "Financial Applications with Machine Learning & AI" course explores the intersection of finance and advanced data science techniques. Throughout this course, students will gain hands-on experience applying machine learning algorithms and artificial intelligence principles to solve complex financial problems.
 <a href="https://www.colegio-bourbaki.com/bourbakifinanzas">[Link to Program]</a>
