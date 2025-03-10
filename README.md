@@ -1,6 +1,6 @@
 # Financial Applications with Machine Learning & AI 📈💰📊
 
-<img src="docs/img/logo_bourbaki.png"  width="100"  style="float: right;">
+<img style="float: right;" src="../../docs/img/logo_bourbaki.png" width="100"/>
 
 This repository is dedicated to storing Jupyter notebooks, assignments, and exams related to the 12-weeks course "Financial Applications with Machine Learning & AI" from Bourbaki Math College. It serves as a comprehensive resource for code and study materials curated during the course.
 
