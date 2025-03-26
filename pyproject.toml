@@ -7,6 +7,8 @@ authors = ["Julio Torreblanca <julio.avila.torreblanca@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+yfinance = "^0.2.55"
+tqdm = "^4.67.1"
 
 
 
